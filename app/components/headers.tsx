@@ -26,7 +26,7 @@ export default function Header() {
               ms="0.4vw"
               className="giraffe"
               objectFit="cover"
-              src="https://o.remove.bg/downloads/5073650e-7711-4e7c-bd3a-06a01f8a0d5b/download-removebg-preview.png"
+              src="/images/User.png"
               alt="Dan Abramov"
             />
           </Flex>
