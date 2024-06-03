@@ -14,13 +14,12 @@ export default function Header() {
             <Input mt="1vw" w="100%" placeholder="Search Here" />
 
             <Button className="btn" mt="1vw" ms="1vw">
-            <i className="fas fa-search" id="search"></i>
+              <i className="fas fa-search" id="search"></i>
             </Button>
 
-            <Button className="lang" mt="1vw" ms="0.4vw"  variant='outline'>
+            <Button className="lang" mt="1vw" ms="0.4vw" variant="outline">
               EN
             </Button>
-            
 
             <Image
               mt="0.5vw"

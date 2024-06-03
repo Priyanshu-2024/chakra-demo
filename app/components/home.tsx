@@ -362,115 +362,163 @@ export default function Home() {
           </Popover>
         </div>
         <div className="list">
-        <Text fontSize="3xl" className="heading2">
+          <Text fontSize="3xl" className="heading2">
             ABB Technikerschu
           </Text>
-          <UnorderedList className="ul1"> 
+          <UnorderedList className="ul1">
             <Flex>
-            <ListItem className="lists1">Energy and Enviromental Technology Hf</ListItem>
-            <ListItem className="lists">HF</ListItem>
-            <ListItem className="lists">Baden</ListItem>
-            <ListItem className="lists">15.10.23</ListItem>
-            <Button className="listbtn" colorScheme='blue'>Button</Button>
+              <ListItem className="lists1">
+                Energy and Enviromental Technology Hf
+              </ListItem>
+              <ListItem className="lists">HF</ListItem>
+              <ListItem className="lists">Baden</ListItem>
+              <ListItem className="lists">15.10.23</ListItem>
+              <Button className="listbtn" colorScheme="blue">
+                Button
+              </Button>
             </Flex>
           </UnorderedList>
-          <UnorderedList className="ul"> 
+          <UnorderedList className="ul">
             <Flex>
-            <ListItem className="lists1">Energy and Enviromental Technology Hf</ListItem>
-            <ListItem className="lists">HF</ListItem>
-            <ListItem className="lists">Baden</ListItem>
-            <ListItem className="lists">15.10.23</ListItem>
-            <Button className="listbtn" colorScheme='blue'>Button</Button>
+              <ListItem className="lists1">
+                Energy and Enviromental Technology Hf
+              </ListItem>
+              <ListItem className="lists">HF</ListItem>
+              <ListItem className="lists">Baden</ListItem>
+              <ListItem className="lists">15.10.23</ListItem>
+              <Button className="listbtn" colorScheme="blue">
+                Button
+              </Button>
             </Flex>
           </UnorderedList>
-          <UnorderedList className="ul"> 
+          <UnorderedList className="ul">
             <Flex>
-            <ListItem className="lists1">Energy and Enviromental Technology Hf</ListItem>
-            <ListItem className="lists">HF</ListItem>
-            <ListItem className="lists">Baden</ListItem>
-            <ListItem className="lists">15.10.23</ListItem>
-            <Button className="listbtn" colorScheme='blue'>Button</Button>
+              <ListItem className="lists1">
+                Energy and Enviromental Technology Hf
+              </ListItem>
+              <ListItem className="lists">HF</ListItem>
+              <ListItem className="lists">Baden</ListItem>
+              <ListItem className="lists">15.10.23</ListItem>
+              <Button className="listbtn" colorScheme="blue">
+                Button
+              </Button>
             </Flex>
           </UnorderedList>
-          <UnorderedList className="ul"> 
+          <UnorderedList className="ul">
             <Flex>
-            <ListItem className="lists1">Energy and Enviromental Technology Hf</ListItem>
-            <ListItem className="lists">HF</ListItem>
-            <ListItem className="lists">Baden</ListItem>
-            <ListItem className="lists">15.10.23</ListItem>
-            <Button className="listbtn" colorScheme='blue'>Button</Button>
+              <ListItem className="lists1">
+                Energy and Enviromental Technology Hf
+              </ListItem>
+              <ListItem className="lists">HF</ListItem>
+              <ListItem className="lists">Baden</ListItem>
+              <ListItem className="lists">15.10.23</ListItem>
+              <Button className="listbtn" colorScheme="blue">
+                Button
+              </Button>
             </Flex>
           </UnorderedList>
-          <UnorderedList className="ul"> 
+          <UnorderedList className="ul">
             <Flex>
-            <ListItem className="lists1">Energy and Enviromental Technology Hf</ListItem>
-            <ListItem className="lists">HF</ListItem>
-            <ListItem className="lists">Baden</ListItem>
-            <ListItem className="lists">15.10.23</ListItem>
-            <Button className="listbtn" colorScheme='blue'>Button</Button>
+              <ListItem className="lists1">
+                Energy and Enviromental Technology Hf
+              </ListItem>
+              <ListItem className="lists">HF</ListItem>
+              <ListItem className="lists">Baden</ListItem>
+              <ListItem className="lists">15.10.23</ListItem>
+              <Button className="listbtn" colorScheme="blue">
+                Button
+              </Button>
             </Flex>
           </UnorderedList>
-          <UnorderedList className="ul"> 
+          <UnorderedList className="ul">
             <Flex>
-            <ListItem className="lists1">Energy and Enviromental Technology Hf</ListItem>
-            <ListItem className="lists">HF</ListItem>
-            <ListItem className="lists">Baden</ListItem>
-            <ListItem className="lists">15.10.23</ListItem>
-            <Button className="listbtn" colorScheme='blue'>Button</Button>
+              <ListItem className="lists1">
+                Energy and Enviromental Technology Hf
+              </ListItem>
+              <ListItem className="lists">HF</ListItem>
+              <ListItem className="lists">Baden</ListItem>
+              <ListItem className="lists">15.10.23</ListItem>
+              <Button className="listbtn" colorScheme="blue">
+                Button
+              </Button>
             </Flex>
           </UnorderedList>
-          <UnorderedList className="ul"> 
+          <UnorderedList className="ul">
             <Flex>
-            <ListItem className="lists1">Energy and Enviromental Technology Hf</ListItem>
-            <ListItem className="lists">HF</ListItem>
-            <ListItem className="lists">Baden</ListItem>
-            <ListItem className="lists">15.10.23</ListItem>
-            <Button className="listbtn" colorScheme='blue'>Button</Button>
+              <ListItem className="lists1">
+                Energy and Enviromental Technology Hf
+              </ListItem>
+              <ListItem className="lists">HF</ListItem>
+              <ListItem className="lists">Baden</ListItem>
+              <ListItem className="lists">15.10.23</ListItem>
+              <Button className="listbtn" colorScheme="blue">
+                Button
+              </Button>
             </Flex>
           </UnorderedList>
-          <UnorderedList className="ul"> 
+          <UnorderedList className="ul">
             <Flex>
-            <ListItem className="lists1">Energy and Enviromental Technology Hf</ListItem>
-            <ListItem className="lists">HF</ListItem>
-            <ListItem className="lists">Baden</ListItem>
-            <ListItem className="lists">15.10.23</ListItem>
-            <Button className="listbtn" colorScheme='blue'>Button</Button>
+              <ListItem className="lists1">
+                Energy and Enviromental Technology Hf
+              </ListItem>
+              <ListItem className="lists">HF</ListItem>
+              <ListItem className="lists">Baden</ListItem>
+              <ListItem className="lists">15.10.23</ListItem>
+              <Button className="listbtn" colorScheme="blue">
+                Button
+              </Button>
             </Flex>
           </UnorderedList>
-          <UnorderedList className="ul"> 
+          <UnorderedList className="ul">
             <Flex>
-            <ListItem className="lists1">Energy and Enviromental Technology Hf</ListItem>
-            <ListItem className="lists">HF</ListItem>
-            <ListItem className="lists">Baden</ListItem>
-            <ListItem className="lists">15.10.23</ListItem>
-            <Button className="listbtn" colorScheme='blue'>Button</Button>
+              <ListItem className="lists1">
+                Energy and Enviromental Technology Hf
+              </ListItem>
+              <ListItem className="lists">HF</ListItem>
+              <ListItem className="lists">Baden</ListItem>
+              <ListItem className="lists">15.10.23</ListItem>
+              <Button className="listbtn" colorScheme="blue">
+                Button
+              </Button>
             </Flex>
           </UnorderedList>
-          <UnorderedList className="ul"> 
+          <UnorderedList className="ul">
             <Flex>
-            <ListItem className="lists1">Energy and Enviromental Technology Hf</ListItem>
-            <ListItem className="lists">HF</ListItem>
-            <ListItem className="lists">Baden</ListItem>
-            <ListItem className="lists">15.10.23</ListItem>
-            <Button className="listbtn" colorScheme='blue'>Button</Button>
+              <ListItem className="lists1">
+                Energy and Enviromental Technology Hf
+              </ListItem>
+              <ListItem className="lists">HF</ListItem>
+              <ListItem className="lists">Baden</ListItem>
+              <ListItem className="lists">15.10.23</ListItem>
+              <Button className="listbtn" colorScheme="blue">
+                Button
+              </Button>
             </Flex>
           </UnorderedList>
-          <UnorderedList className="ul"> 
+          <UnorderedList className="ul">
             <Flex>
-            <ListItem className="lists1">Energy and Enviromental Technology Hf</ListItem>
-            <ListItem className="lists">HF</ListItem>
-            <ListItem className="lists">Baden</ListItem>
-            <ListItem className="lists">15.10.23</ListItem>
-            <Button className="listbtn" colorScheme='blue'>Button</Button>
+              <ListItem className="lists1">
+                Energy and Enviromental Technology Hf
+              </ListItem>
+              <ListItem className="lists">HF</ListItem>
+              <ListItem className="lists">Baden</ListItem>
+              <ListItem className="lists">15.10.23</ListItem>
+              <Button className="listbtn" colorScheme="blue">
+                Button
+              </Button>
             </Flex>
           </UnorderedList>
-          <UnorderedList className="ul"> 
+          <UnorderedList className="ul">
             <Flex>
-            <ListItem className="lists1">Energy and Enviromental Technology Hf</ListItem>
-            <ListItem className="lists">HF</ListItem>
-            <ListItem className="lists">Baden</ListItem>
-            <ListItem className="lists">15.10.23</ListItem>
-            <Button className="listbtn" colorScheme='blue'>Button</Button>
+              <ListItem className="lists1">
+                Energy and Enviromental Technology Hf
+              </ListItem>
+              <ListItem className="lists">HF</ListItem>
+              <ListItem className="lists">Baden</ListItem>
+              <ListItem className="lists">15.10.23</ListItem>
+              <Button className="listbtn" colorScheme="blue">
+                Button
+              </Button>
             </Flex>
           </UnorderedList>
         </div>

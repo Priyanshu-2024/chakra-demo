@@ -3,45 +3,44 @@
   margin-top: 2vw;
   border-bottom: 0.5px solid rgb(235, 186, 186);
 }
-.heading{
+.heading {
   margin-top: 1vw;
   margin-left: 1vw;
   color: rgb(238, 142, 142);
 }
-.filters{
-  margin-top: 1.7vw; 
+.filters {
+  margin-top: 1.7vw;
   margin-left: 35vw;
   color: rgb(238, 142, 142);
-
 }
-#head{
+#head {
   border-bottom: 1px solid rgb(235, 186, 186) !important;
   margin-left: 1vw;
 }
-.pop{
+.pop {
   margin-left: 2vw;
   margin-top: 1vw;
-  background-color: white !important; 
+  background-color: white !important;
   font-size: large !important;
   font-weight: lighter !important;
   color: rgb(235, 186, 186) !important;
   border: 1px solid rgb(235, 186, 186) !important;
 }
-.pop:hover{
+.pop:hover {
   background-color: white !important;
 }
-.check{
+.check {
   width: 100%;
 }
-.lists1{
+.lists1 {
   list-style: none;
   margin-left: 1vw;
 }
-.lists{
+.lists {
   list-style: none;
   margin-left: 7vw;
 }
-.listbtn{
+.listbtn {
   margin-left: 7vw;
   align-self: center;
   justify-content: center;
@@ -49,20 +48,17 @@
   margin-top: -0.5vw;
   background-color: rgb(238, 142, 142) !important;
 }
-.ul1{
-  margin-top:1vw ;
+.ul1 {
+  margin-top: 1vw;
   border-bottom: 1px solid rgb(235, 186, 186) !important;
-
 }
-.ul{
-  margin-top:3vw ;
+.ul {
+  margin-top: 3vw;
   border-bottom: 1px solid rgb(235, 186, 186) !important;
-
 }
-.heading2{
+.heading2 {
   color: rgb(238, 142, 142);
 
   margin-left: 2vw;
   border-bottom: 1px solid rgb(235, 186, 186) !important;
-
 }

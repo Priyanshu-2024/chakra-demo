@@ -5,13 +5,13 @@
 .navbar {
   background-color: rgb(252, 252, 248);
 }
-.btn{
+.btn {
   background-color: rgb(238, 142, 142) !important;
 }
-#search{
+#search {
   color: white;
 }
-.lang{
+.lang {
   /* background-color: rgb(238, 142, 142); */
   color: rgb(238, 142, 142) !important;
   border-color: rgb(238, 142, 142) !important;
