@@ -4,6 +4,7 @@
 }
 .navbar {
   background-color: rgb(252, 252, 248);
+  position: sticky;
 }
 .btn {
   background-color: rgb(238, 142, 142) !important;

@@ -1,3 +1,4 @@
+import { useState } from "react";
 import {
   List,
   ListItem,
@@ -24,6 +25,18 @@ import {
 } from "@chakra-ui/react";
 import { Checkbox, CheckboxGroup } from "@chakra-ui/react";
 export default function Home() {
+  const [counter, setCounter] = useState(0);
+
+  const handleCheckboxChange = (event: any) => {
+    if (event.target.checked) {
+      setCounter(counter + 1);
+      console.log(counter);
+    } else {
+      setCounter(counter - 1);
+      console.log(counter);
+    }
+  };
+
   return (
     <Flex>
       <Box w="30%">
@@ -163,23 +176,49 @@ export default function Home() {
         <div className="options">
           <Popover>
             <PopoverTrigger>
-              <Button className="pop">Training, Continuing Education</Button>
+              <Button className="pop">
+                Training, Continuing Education + {counter}
+              </Button>
             </PopoverTrigger>
             <PopoverContent>
               <PopoverArrow />
               <PopoverCloseButton />
               {/* <PopoverHeader>Confirmation!</PopoverHeader> */}
               <PopoverBody>
-                <Checkbox colorScheme="red" className="check" defaultChecked>
+                <Checkbox
+                  colorScheme="red"
+                  className="check"
+                  onChange={(event) => {
+                    handleCheckboxChange(event);
+                  }}
+                >
                   Checkbox
                 </Checkbox>
-                <Checkbox className="check" colorScheme="red" defaultChecked>
+                <Checkbox
+                  className="check"
+                  colorScheme="red"
+                  onChange={(event) => {
+                    handleCheckboxChange(event);
+                  }}
+                >
                   Checkbox
                 </Checkbox>
-                <Checkbox className="check" colorScheme="red" defaultChecked>
+                <Checkbox
+                  className="check"
+                  colorScheme="red"
+                  onChange={(event) => {
+                    handleCheckboxChange(event);
+                  }}
+                >
                   Checkbox
                 </Checkbox>
-                <Checkbox className="check" colorScheme="red" defaultChecked>
+                <Checkbox
+                  className="check"
+                  colorScheme="red"
+                  onChange={(event) => {
+                    handleCheckboxChange(event);
+                  }}
+                >
                   Checkbox
                 </Checkbox>
               </PopoverBody>
@@ -195,10 +234,20 @@ export default function Home() {
               <PopoverCloseButton />
               {/* <PopoverHeader>Confirmation!</PopoverHeader> */}
               <PopoverBody>
-                <Checkbox colorScheme="red" className="check" defaultChecked>
+                <Checkbox
+                  colorScheme="red"
+                  className="check"
+                  defaultChecked
+                  value="1"
+                >
                   Checkbox
                 </Checkbox>
-                <Checkbox className="check" colorScheme="red" defaultChecked>
+                <Checkbox
+                  className="check"
+                  colorScheme="red"
+                  defaultChecked
+                  value="2"
+                >
                   Checkbox
                 </Checkbox>
                 <Checkbox className="check" colorScheme="red" defaultChecked>
